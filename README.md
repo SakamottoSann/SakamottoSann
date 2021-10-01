@@ -1,7 +1,7 @@
 <h2 align="center">:alien: Hello My Name Is Willian :alien:</h2>
 <div align="center">
 <i > - :construction_worker: I am a simple student of Systems Analysis and Development, currently in the 4th semester of University Senac. :hammer:</i> <br/>
-<i> - 🌱 I'm also passionate about computers, video games, cars, motorcycles, and not forgetting my girlfriend of course. 😄</i> <br/>
+<i> - 🌱 I'm also in love with computers, video games, cars, motorcycles, nature, cats and of course barbecue and a good mate. 😄</i> <br/>
 <div>
 <hr/>
   
