@@ -1,49 +1,13 @@
-<h2 align="center">:alien: Hello My Name Is Willian :alien:</h2>
-<div align="center">
-<i > - :bug: I am a simple student of Systems Analysis and Development, currently in the 5th semester of University Senac. :hammer:</i> <br/>
-  <i > - :construction_worker: I'm a mobile developer in React native, and a developer of vehicle tracking and security systems. :white_check_mark:</i>
+👋 Oi, eu sou [Seu Nome]!
 
-<i> - 🌱 I'm also in love with computers, video games, cars, motorcycles, nature, cats and of course barbecue and a good mate. 😄</i> <br/>
-<div>
-<hr/>
-  
-<div align="center">
-  <h2> :memo: Languages and Tools :monocle_face:</h2>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- </div>
- <hr/>
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia SENAC PELOTAS.
 
-<h3 align="center">:pencil2: What Have I Done :pencil2:</h3>
+💻 Desenvolvedor Mobile na TrackData WebSolutions, especializado em criar soluções inovadoras para dispositivos móveis.
 
-<div align="center"> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakamottoSann&show_icons=true&theme=merko) 
+🖥️ Além disso, tenho experiência no desenvolvimento de sistemas para Windows e aplicações voltadas para hardwares específicos.
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SakamottoSann&hide=html&layout=compact&theme=merko)
+🚗 Trabalho com rastreamento veicular, aplicando meu conhecimento em Python para manipulação e análise de dados.
 
-</div>
-  
+🔧 Também sou formado como Técnico em Manutenção e Suporte em Informática, o que me confere habilidades adicionais para lidar com desafios tecnológicos.
 
-<!--
-**SakamottoSann/SakamottoSann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sempre em busca de novos desafios e aprendizado constante! Vamos construir algo incrível juntos. 😊
